@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Abinash393&show_icons=true)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Abinash393.Abinash393)
