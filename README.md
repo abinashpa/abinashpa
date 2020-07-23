@@ -1,23 +1,8 @@
 ## Welcome to my Github <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ### Social
-[![Linkedin Badge](https://img.shields.io/badge/-abinash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abinash393/)](https://www.linkedin.com/in/abinash393/)
-[![Medium Badge](https://img.shields.io/badge/-@abinash-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@abinashpanda393/)](https://medium.com/@abinashpanda393)
-
-<!--
-**Abinash393/Abinash393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-abinash393-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abinash393/)](https://www.linkedin.com/in/abinash393/)
+[![Medium Badge](https://img.shields.io/badge/-@abinashpanda393-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@abinashpanda393/)](https://medium.com/@abinashpanda393)
 
 ## ⚡ Technologies
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
@@ -31,8 +16,6 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-
-
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Abinash393&show_icons=true)
 
