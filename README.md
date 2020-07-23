@@ -1,8 +1,17 @@
 ## Welcome to my Github <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-### Social
+## Reach me on
 [![Linkedin Badge](https://img.shields.io/badge/-abinash393-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abinash393/)](https://www.linkedin.com/in/abinash393/)
-[![Medium Badge](https://img.shields.io/badge/-@abinashpanda393-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@abinashpanda393/)](https://medium.com/@abinashpanda393)
+
+</hr>
+
+## Articles & Blogs
+<p align="center" align='right'>
+  <a target="_blank"href="https://dev.to/ileriayo"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://medium.com/@ileriayoadebiyi"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+</p>
+
+</hr>
 
 ## ⚡ Technologies
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
