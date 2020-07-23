@@ -1,8 +1,8 @@
 ## Welcome to my Github <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ### Social
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abinash393/)](https://www.linkedin.com/in/abinash393/)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@abinashpanda393/)](https://medium.com/@abinashpanda393)
+[![Linkedin Badge](https://img.shields.io/badge/-abinash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abinash393/)](https://www.linkedin.com/in/abinash393/)
+[![Medium Badge](https://img.shields.io/badge/-@abinash-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@abinashpanda393/)](https://medium.com/@abinashpanda393)
 
 <!--
 **Abinash393/Abinash393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
