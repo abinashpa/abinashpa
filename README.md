@@ -36,7 +36,7 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-273040?style=flat-square&logo=prisma)
 <br/>
 <br/>
-### DataBase
+### Database
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
