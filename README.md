@@ -54,6 +54,4 @@
 ### Tools
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Abinash393&show_icons=true)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Abinash393.Abinash393)
