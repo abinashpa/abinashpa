@@ -15,11 +15,11 @@
 </p>
 
 ### Languages
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Ruby](https://img.shields.io/badge/-ruby-CC342D?style=flat-square&logo=ruby)
-![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Crystal](https://img.shields.io/badge/-Crystal-black?style=flat-square&logo=crystal)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 <br/>
 <br/>
 ### Front-end
@@ -34,13 +34,14 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-gray?style=flat-square&logo=express)
 ![Prisma](https://img.shields.io/badge/-Prisma-273040?style=flat-square&logo=prisma)
+![GraphQL](https://img.shields.io/badge/-graphql-ff1493?&logo=graphql)
 <br/>
 <br/>
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Elasticsearch](https://img.shields.io/badge/-elasticsearch-000?&logo=elasticsearch)
+![Elasticsearch](https://img.shields.io/badge/-elasticsearch-03BFB4?&logo=elasticsearch)
 <br/>
 <br/>
 ### CI/CD
@@ -51,6 +52,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 <br/>
 ### Tools
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![vim](https://img.shields.io/badge/-vim-000?&logo=vim)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Abinash393.Abinash393)
