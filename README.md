@@ -40,6 +40,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Elasticsearch](https://img.shields.io/badge/-elasticsearch-000?&logo=elasticsearch)
 <br/>
 <br/>
 ### CI/CD
